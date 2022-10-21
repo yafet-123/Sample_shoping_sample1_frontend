@@ -18,9 +18,9 @@ export function Aim() {
         commodo consequat.
       </p>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 px-20">
-        <div className="bg-white w-full h-full rounded-2xl px-10 mt-28">
-          <div className=""></div>
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 px-20 w-full h-full">
+        <div className="bg-white w-full h-[35rem] rounded-2xl px-10 mt-28">
+          <div className="aim-one-background h-56 w-56 rounded-full max-w-xl mx-auto -mt-5 border-8 border-white"></div>
           <h1 className="text-3xl text-black max-w-2xl mx-auto my-5 text-center font-extrabold">
             No-Limit hosting
           </h1>
@@ -37,8 +37,44 @@ export function Aim() {
             - ullamco laboris
           </p>
         </div>
-        <div className="flex flex-col mx-20"></div>
-        <div className="bg-blue-700 w-full h-[30rem] rounded-2xl px-20 mt-28"></div>
+
+        <div className="bg-white w-full h-[35rem] rounded-2xl px-10 mt-28">
+          <div className="aim-two-background h-56 w-56 rounded-full max-w-xl mx-auto -mt-5 border-8 border-white"></div>
+          <h1 className="text-3xl text-black max-w-2xl mx-auto my-5 text-center font-extrabold">
+            Online Store
+          </h1>
+          <p className="font-light text-xl mb-5 text-left text-black">
+            - Loads Functionality
+          </p>
+          <p className="font-light text-xl mb-5 text-left text-black">
+            - Account creation
+          </p>
+          <p className="font-light text-xl mb-5 text-left text-black">
+            - quis nostrud
+          </p>
+          <p className="font-light text-xl mb-5 text-left text-black">
+            - ullamco laboris
+          </p>
+        </div>
+
+        <div className="bg-white w-full h-[35rem] rounded-2xl px-10 mt-28">
+          <div className="aim-three-background h-56 w-56 rounded-full max-w-xl mx-auto -mt-5 border-8 border-white"></div>
+          <h1 className="text-3xl text-black max-w-2xl mx-auto my-5 text-center font-extrabold">
+            Sell Online
+          </h1>
+          <p className="font-light text-xl mb-5 text-left text-black">
+            - Manage inventory
+          </p>
+          <p className="font-light text-xl mb-5 text-left text-black">
+            - Customer accounts
+          </p>
+          <p className="font-light text-xl mb-5 text-left text-black">
+            - quis nostrud
+          </p>
+          <p className="font-light text-xl mb-5 text-left text-black">
+            - ullamco laboris
+          </p>
+        </div>
       </div>
     </div>
   );

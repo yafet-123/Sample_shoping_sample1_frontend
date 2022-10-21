@@ -8,3 +8,43 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.aim-one-background {
+  background-image: url("../public/images/bgImage2.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.aim-two-background {
+  background-image: url("../public/images/bgImage3.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.aim-three-background {
+  background-image: url("../public/images/bgImage4.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.expericene-one-background {
+  background-image: url("../public/images/bgImage5.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.expericene-two-background {
+  background-image: url("../public/images/bgImage6.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.expericene-three-background {
+  background-image: url("../public/images/bgImage7.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
