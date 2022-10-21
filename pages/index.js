@@ -2,6 +2,7 @@ import Head from "next/head";
 import { Aim } from "../components/Aim";
 import { Article } from "../components/Article";
 import { Consulation } from "../components/Consulation";
+import { Contact } from "../components/Contact";
 import { Expericene } from "../components/Expericene";
 import { GetYours } from "../components/GetYours";
 import { Hero } from "../components/Hero";
@@ -21,6 +22,7 @@ export default function Home() {
       <Expericene />
       <Plan />
       <Article />
+      <Contact />
     </div>
   );
 }
