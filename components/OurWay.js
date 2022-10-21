@@ -16,7 +16,7 @@ export function OurWay() {
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
         </div>
-        <div className="flex flex-col mx-20">
+        <div className="flex flex-col lg:mx-20">
           <div className="bg-red-800 w-full h-72 rounded-2xl px-10 mt-10">
             <h1 className="text-8xl text-white max-w-2xl mx-auto mb-2 mt-5 text-center font-extrabold">
               2019

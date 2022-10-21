@@ -6,10 +6,10 @@ export function Hero() {
       <div className="w-full h-screen bg-gray-200 flex flex-col">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 p-20">
           <div className="flex flex-col">
-            <h1 className="text-6xl font-light text-black w-1/2 mb-5">
+            <h1 className="text-6xl font-light text-black lg:w-1/2 mb-5">
               We create <sapn className="font-bold">online shops</sapn>
             </h1>
-            <p className="font-normal text-lg w-1/2 leading-10 mb-5">
+            <p className="font-normal text-lg lg:w-1/2 leading-10 mb-5">
               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
               reprehenderit in voluptate velit esse cillum dolore eu fugiat

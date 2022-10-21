@@ -10,7 +10,7 @@ export function Consulation() {
         want to create your online store and improve your sales? Our company is
         the one and only solution you need to build your online business/
       </p>
-      <div className="bg-gray-100 max-w-6xl mx-auto p-5 rounded-lg flex items-center">
+      <div className="bg-gray-100 max-w-6xl mx-auto p-5 rounded-lg flex flex-col lg:flex-row justify-between items-center">
         <label className="text-black text-xl" htmlFor="name">
           Name
         </label>
