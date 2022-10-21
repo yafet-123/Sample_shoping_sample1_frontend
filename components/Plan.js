@@ -2,22 +2,22 @@ import React from "react";
 
 export function Plan() {
   return (
-    <div className="bg-black w-full h-full p-20 flex flex-col">
-      <h1 className="text-5xl text-white max-w-4xl mx-auto mb-5 text-center font-light">
+    <div className="bg-black w-full h-full py-20 flex flex-col">
+      <h1 className="text-5xl text-white max-w-4xl mx-auto mb-5 text-center font-light px-20">
         Choose your pay
       </h1>
 
-      <h1 className="text-5xl text-white max-w-4xl mx-auto mb-5 text-center font-bold">
+      <h1 className="text-5xl text-white max-w-4xl mx-auto mb-5 text-center font-bold px-20">
         monthly website plan
       </h1>
 
-      <p className="font-light text-2xl leading-10 text-center max-w-6xl mx-auto text-white mb-5">
+      <p className="font-light text-2xl leading-10 text-center max-w-6xl mx-auto text-white mb-5 px-20">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
       </p>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 px-20 w-full h-full">
-        <div className="bg-blue-800 w-full h-[35rem] rounded-2xl px-10 mt-28">
+        <div className="bg-blue-800 w-full h-[35rem] rounded-2xl lg:px-32 mt-28">
           <div className="h-56 w-56 max-w-xl mx-auto -mt-16 border-t-8 border-blue-800 mb-10 rounded-lg bg-white pt-5">
             <h1 className="text-xl text-blue-800 max-w-2xl mx-auto my-5 text-center font-extrabold">
               Five Page Starter
@@ -45,7 +45,7 @@ export function Plan() {
           </p>
         </div>
 
-        <div className="bg-blue-400 w-full h-[35rem] rounded-2xl px-10 mt-28">
+        <div className="bg-blue-400 w-full h-[35rem] rounded-2xl lg:px-32 mt-28">
           <div className="h-56 w-56 max-w-xl mx-auto -mt-16 border-t-8 border-blue-400 mb-10 rounded-lg bg-white pt-5">
             <h1 className="text-xl text-blue-400 max-w-2xl mx-auto my-5 text-center font-extrabold">
               10 Pages Business
@@ -73,7 +73,7 @@ export function Plan() {
           </p>
         </div>
 
-        <div className="bg-red-600 w-full h-[35rem] rounded-2xl px-10 mt-28">
+        <div className="bg-red-600 w-full h-[35rem] rounded-2xl lg:px-32 mt-28">
           <div className="h-56 w-56 max-w-xl mx-auto -mt-16 border-t-8 border-red-600 mb-10 rounded-lg bg-white pt-5">
             <h1 className="text-xl text-red-600 max-w-2xl mx-auto my-5 text-center font-extrabold">
               ecommerce Starter

@@ -3,7 +3,7 @@ import React from "react";
 export function Article() {
   return (
     <div className="bg-white w-full h-full p-20 flex flex-col">
-      <p className="font-light text-2xl leading-10 text-left text-black mb-5 w-1/2">
+      <p className="font-light text-2xl leading-10 text-left text-black mb-5 lg:w-1/2">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
