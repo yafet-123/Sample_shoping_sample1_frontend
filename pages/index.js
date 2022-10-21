@@ -1,4 +1,5 @@
 import Head from "next/head";
+import { Aim } from "../components/Aim";
 import { Consulation } from "../components/Consulation";
 import { GetYours } from "../components/GetYours";
 import { Hero } from "../components/Hero";
@@ -12,6 +13,7 @@ export default function Home() {
       <Hero />
       <OurWay />
       <Consulation />
+      <Aim />
       <GetYours />
     </div>
   );
