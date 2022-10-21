@@ -16,7 +16,7 @@ export function Plan() {
         tempor incididunt ut labore et dolore magna aliqua.
       </p>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 px-20 w-full h-full">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 lg:px-20 w-full h-full">
         <div className="bg-blue-800 w-full h-[35rem] rounded-2xl lg:px-32 mt-28">
           <div className="h-56 w-56 max-w-xl mx-auto -mt-16 border-t-8 border-blue-800 mb-10 rounded-lg bg-white pt-5">
             <h1 className="text-xl text-blue-800 max-w-2xl mx-auto my-5 text-center font-extrabold">

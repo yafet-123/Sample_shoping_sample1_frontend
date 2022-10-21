@@ -18,7 +18,7 @@ export function Aim() {
         commodo consequat.
       </p>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 px-20 w-full h-full">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 lg:px-20 w-full h-full">
         <div className="bg-white w-full h-[35rem] rounded-2xl lg:px-32 mt-28">
           <div className="aim-one-background h-56 w-56 rounded-full max-w-xl mx-auto -mt-5 border-8 border-white"></div>
           <h1 className="text-3xl text-black max-w-2xl mx-auto my-5 text-center font-extrabold">
