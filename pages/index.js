@@ -1,5 +1,6 @@
 import Head from "next/head";
 import { Aim } from "../components/Aim";
+import { Article } from "../components/Article";
 import { Consulation } from "../components/Consulation";
 import { Expericene } from "../components/Expericene";
 import { GetYours } from "../components/GetYours";
@@ -19,6 +20,7 @@ export default function Home() {
       <GetYours />
       <Expericene />
       <Plan />
+      <Article />
     </div>
   );
 }
