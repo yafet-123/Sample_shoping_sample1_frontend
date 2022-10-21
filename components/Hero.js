@@ -32,7 +32,7 @@ export function Hero() {
         </h1>
       </div>
       <div className="bg-white w-full h-full grid grid-cols-1 lg:grid-cols-4 gap-10 px-20 mb-16">
-        <div className="-mt-16 bg-white p-10">
+        <div className="lg:-mt-16 bg-white p-10">
           <h1 className="text-2xl font-bold text-black mb-5 text-center">
             customilaize your online store
           </h1>
@@ -44,7 +44,7 @@ export function Hero() {
           </p>
         </div>
 
-        <div className="-mt-16 bg-white p-10">
+        <div className="lg:-mt-16 bg-white p-10">
           <h1 className="text-2xl font-bold text-black mb-5 text-center">
             Run your ecommerce website
           </h1>
@@ -56,7 +56,7 @@ export function Hero() {
           </p>
         </div>
 
-        <div className="-mt-16 bg-white p-10">
+        <div className="lg:-mt-16 bg-white p-10">
           <h1 className="text-2xl font-bold text-black mb-5 text-center">
             Growth your revenue
           </h1>
@@ -68,7 +68,7 @@ export function Hero() {
           </p>
         </div>
 
-        <div className="-mt-16 bg-white p-10">
+        <div className="lg:-mt-16 bg-white p-10">
           <h1 className="text-2xl font-bold text-black mb-5 text-center">
             Team
           </h1>
