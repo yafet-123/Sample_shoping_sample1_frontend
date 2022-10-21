@@ -2,8 +2,8 @@ import React from "react";
 
 export function Consulation() {
   return (
-    <div className="bg-pink-600 text-white p-20">
-      <h1 className="text-5xl text-white max-w-2xl mx-auto mb-5 text-center fon-bold">
+    <div className="bg-pink-600 text-white p-20 mb-5">
+      <h1 className="text-5xl text-white max-w-2xl mx-auto mb-5 text-center font-bold">
         Get Free Consulation
       </h1>
       <p className="font-light text-xl leading-10 mb-5 text-center max-w-6xl mx-auto">
