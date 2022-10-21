@@ -4,7 +4,7 @@ export function Hero() {
   return (
     <div className="flex flex-col w-full h-full mb-16">
       <div className="w-full h-screen bg-gray-200 flex flex-col">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 p-20">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 p-5 lg:p-20">
           <div className="flex flex-col">
             <h1 className="text-6xl font-light text-black lg:w-1/2 mb-5">
               We create <sapn className="font-bold">online shops</sapn>
