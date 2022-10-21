@@ -11,15 +11,15 @@ export function Article() {
       </p>
 
       <div className="flex flex-col lg:flex-row justify-between items-center">
-        <div className="w-[30rem] h-[30rem] bg-white border-8 border-red-600 rounded-full flex justify-center items-center">
+        <div className="w-96 lg:w-[30rem] h-96 lg:h-[30rem] bg-white border-8 border-red-600 rounded-full flex justify-center items-center mb-5">
           <h1 className="text-8xl text-red-600  mb-5 font-extrabold">80%</h1>
         </div>
 
-        <div className="w-[25rem] h-[25rem] bg-white border-8 border-blue-800 rounded-full flex justify-center items-center">
+        <div className="w-52 lg:w-[25rem] h-52 lg:h-[25rem] bg-white border-8 border-blue-800 rounded-full flex justify-center items-center mb-5">
           <h1 className="text-8xl text-blue-800  mb-5 font-extrabold">13%</h1>
         </div>
 
-        <div className="w-[20rem] h-[20rem] bg-white border-8 border-blue-400 rounded-full flex justify-center items-center">
+        <div className="w-40 lg:w-[20rem] h-40 lg:h-[20rem] bg-white border-8 border-blue-400 rounded-full flex justify-center items-center mb-5">
           <h1 className="text-8xl text-blue-400  mb-5 font-extrabold">7%</h1>
         </div>
       </div>

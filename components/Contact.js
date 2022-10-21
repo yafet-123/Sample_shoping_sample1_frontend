@@ -15,7 +15,7 @@ export function Contact() {
           <p className="font-light text-3xl leading-10 text-left text-white mb-5">
             Chat to us
           </p>
-          <p className="font-light text-xl leading-10 text-left text-white mb-5 px-10">
+          <p className="font-light text-xl leading-10 text-left text-white mb-5 lg:px-10">
             yafetaddisu123@gmail.com
           </p>
         </div>
@@ -24,7 +24,7 @@ export function Contact() {
           <p className="font-light text-3xl leading-10 text-left text-white mb-5">
             Office
           </p>
-          <p className="font-light text-xl leading-10 text-left text-white mb-5 px-10">
+          <p className="font-light text-xl leading-10 text-left text-white mb-5 lg:px-10">
             ferensay legasiyon , Addis Ababa
           </p>
         </div>
@@ -33,7 +33,7 @@ export function Contact() {
           <p className="font-light text-3xl leading-10 text-left text-white mb-5">
             Phone
           </p>
-          <p className="font-light text-xl leading-10 text-left text-white mb-5 px-10">
+          <p className="font-light text-xl leading-10 text-left text-white mb-5 lg:px-10">
             +251934781038
           </p>
         </div>
