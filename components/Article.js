@@ -10,7 +10,7 @@ export function Article() {
         commodo consequat.
       </p>
 
-      <div className="flex justify-between items-center">
+      <div className="flex flex-col lg:flex-row justify-between items-center">
         <div className="w-[30rem] h-[30rem] bg-white border-8 border-red-600 rounded-full flex justify-center items-center">
           <h1 className="text-8xl text-red-600  mb-5 font-extrabold">80%</h1>
         </div>
