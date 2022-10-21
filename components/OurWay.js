@@ -6,7 +6,7 @@ export function OurWay() {
       <h1 className="text-7xl text-black max-w-2xl mx-auto mb-10 text-center font-light">
         Our Way
       </h1>
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 px-20">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 lg:px-20">
         <div className="bg-blue-400 w-full h-[30rem] rounded-2xl px-20 mt-28">
           <h1 className="text-8xl text-white max-w-2xl mx-auto mb-5 mt-20 text-center font-extrabold">
             2020
